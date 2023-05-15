@@ -1,0 +1,278 @@
+@media (max-width: 575.98px) {
+    /* NAV PART START */
+    body{
+        overflow-x: hidden;
+    }
+    body {
+        font-size: 12px;
+    }
+    .nav {
+        width: 185px;
+    }
+   
+    /* NAV PART END */
+  /* home part start */
+  .home-text h1 span {
+    font-size: 45px;
+ }
+
+/* home part end */
+/* about part start */
+.aboutt button a {
+	font-size: 15px;
+}
+.about-text p {
+	font-size: 16px;
+	width: auto;
+}
+.about-text {
+   height: auto;
+}
+.about-image img {
+	width: 79%;
+}
+/* about part end */
+/* education part start */
+.top-text p i,
+.ex-text p i {
+	display: none;
+}
+.top-text,
+.ex-text{
+    text-align: center;
+    padding-left: 0;
+}
+/* education part end */
+/* skills part start */
+.chart {
+	padding-left: 10px;
+	padding-right: 13px;
+}
+.chart_bar {
+	font-size: 18px;
+}
+.chart_bar i {
+	font-size: 19px;
+}
+.label {
+	font-size: 18px;
+}
+.skill-gap{
+    row-gap: 10px;
+}
+.psd {
+	width: 40%;
+}
+.high {
+	width: 56%;
+}
+/* skills part end */
+ /* project part start */
+ .project-one:hover .project-lay{
+    height: 100%;
+    opacity: 1;
+    animation: none;
+ }
+ /* project part end */
+/* contact part start */
+.contact-one p {
+	font-size: 17px !important;
+	padding: 2px 26px;
+	text-align: left;
+}
+.sociall ul {
+	justify-content: center;
+}
+form {
+	
+	width: 100%;
+}
+.c-gap{
+    row-gap: 20px;
+}
+form h3 {
+	text-align: center;
+}
+/* contact part end */
+}
+
+
+@media (min-width: 576px) and (max-width: 766.98px) {
+
+    /* NAV PART START */
+    body{
+        overflow-x: hidden;
+    }
+    body {
+        font-size: 16px;
+    }
+    .nav {
+        width: 213px;
+    }
+   
+    /* NAV PART END */
+  /* home part start */
+  .home-text h1 span {
+    font-size: 45px;
+ }
+
+/* home part end */
+/* about part start */
+
+.top-text p i,
+.ex-text p i {
+	display: none;
+}
+.top-text,
+.ex-text{
+    text-align: center;
+    padding-left: 0;
+}
+/* about part end */
+/* skill part start */
+.skill-gap{
+    row-gap: 10px;
+}
+/* skill part end */
+ /* project part start */
+ .project-one:hover .project-lay{
+    height: 100%;
+    opacity: 1;
+    animation: none;
+ }
+ /* project part end */
+/* contact part start */
+.contact-one p {
+	font-size: 17px !important;
+	padding: 2px 26px;
+	text-align: left;
+}
+.sociall ul {
+	justify-content: center;
+}
+form {
+	
+	width: 100%;
+}
+.c-gap{
+    row-gap: 20px;
+}
+form h3 {
+	text-align: center;
+}
+/* contact part end */
+}
+
+
+
+@media (min-width: 767px) and (max-width: 991.98px) {
+  /* NAV PART START */
+  body{
+    overflow-x: hidden;
+}
+body {
+    font-size: 16px;
+}
+.nav {
+    width: 213px;
+}
+
+/* NAV PART END */
+/* home part start */
+.home-text h1 span {
+font-size: 45px;
+}
+
+/* home part end */
+   /* about part start */
+
+.top-text p i,
+.ex-text p i {
+	display: none;
+}
+.top-text,
+.ex-text{
+    text-align: center;
+    padding-left: 0;
+}
+.about-gap{
+    row-gap: 45px;
+}
+
+
+.about-text p {
+	font-size: 16px;
+	width: auto;
+	padding: 0px;
+}
+.about-text {
+   height: auto;
+}
+.about-text h2 {
+	padding-bottom: 0px;
+	font-size: 15px;
+	padding-left: 20px;
+}
+.about-image img {
+	width: 88%;
+	padding-top: 100px;
+}
+/* about part end */
+ /* project part start */
+ .project-one:hover .project-lay{
+    height: 100%;
+    opacity: 1;
+    animation: none;
+ }
+ /* project part end */
+ /* contact part start */
+.contact-one p {
+	font-size: 17px !important;
+	padding: 2px 26px;
+	text-align: center;
+}
+.sociall ul {
+	justify-content: center;
+}
+form {
+	
+	width: 100%;
+}
+.c-gap{
+    row-gap: 20px;
+}
+form h3 {
+	text-align: center;
+}
+/* contact part end */
+}
+
+
+
+    @media (min-width: 992px) and (max-width: 1199px) {
+  /* home part start */
+
+/* home part end */
+/* about */
+#about {
+	height: auto;
+	
+}
+.about-text p {
+	font-size: 18px;
+	width: auto;
+    padding: 0;
+}
+.about-text {
+   height: auto;
+}
+.about-text h2 {
+	padding-bottom: 0px;
+	font-size: 15px;
+	padding-left: 20px;
+}
+.about-image img {
+	padding-top: 40px;
+}
+/* about */
+    }
